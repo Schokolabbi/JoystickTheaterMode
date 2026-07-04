@@ -12,7 +12,7 @@ Joystick Theater Mode is a uBlock Origin filter list that maximizes the stream v
 
    - Open uBlock Origin settings.
    - Go to the Filter lists tab.
-   - Add/subscribe to this filter list.
+   - Add/subscribe to the [filterlist.txt](https://github.com/Schokolabbi/JoystickTheaterMode/raw/refs/heads/main/filterlist.txt)
    - Refresh the stream page (or reload the tab) to apply changes.
 
 ## Usage notes
