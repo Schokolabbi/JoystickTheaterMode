@@ -5,7 +5,7 @@ Joystick Theater Mode is a uBlock Origin filter list that maximizes the stream v
 ## What it does
 
    - Hides navbars and the stream title to reduce visual clutter.
-   - Reveals UI on hover so the player HUD/description remain accessible.
+   - Reveals UI on hover so the stream player HUD/description remain accessible.
    - Works by applying page element hiding rules that support “theater mode” behavior.
 
 ## How to install
@@ -17,5 +17,5 @@ Joystick Theater Mode is a uBlock Origin filter list that maximizes the stream v
 
 ## Usage notes
 
-   - If the theater mode doesn’t appear immediately, reload the stream page.
-   - Hovering over the stream area should bring the UI back (player HUD and description), then theater mode returns when you move away.
+   - Theater mode is enabled once the stream player interface disappears.
+   - Hovering over the stream area should bring the UI back.
