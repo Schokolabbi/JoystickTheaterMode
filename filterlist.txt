@@ -4,5 +4,5 @@
 ! Version: 0.0.2
 !
 joystick.tv##body:has(.hud-overlay[style*='display: none']):has(main > div > div > div:nth-child(2):not(:hover)) header:not(:hover)
-joystick.tv##body:has(.hud-overlay[style*='display: none']):has(main > div > div > div:nth-child(2):not(:hover)) .backdrop-blur-md:not(:hover)
+joystick.tv##body:has(.hud-overlay[style*='display: none']) .backdrop-blur-md:not(:hover)
 joystick.tv##body:has(.hud-overlay[style*='display: none']):has(main > div > div > div:nth-child(2):not(:hover)) .\@container:not(:hover)
